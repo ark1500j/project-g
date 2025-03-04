@@ -1,0 +1,21 @@
+Grocery List: 
+--------------------
+Milk - 1 liter - $2.50
+Eggs - 12 pieces - $36.00
+Bread - 1 loaf - $2.00
+Apples - 2 kg - $7.00
+Bananas - 1 bunch - $1.20
+Tomatoes - 500 g - $500.00
+Onions - 1 piece - $0.50
+Potatoes - 1 kg - $1.00
+Carrots - 500 g - $400.00
+Lettuce - 1 head - $1.50
+Cucumber - 1 piece - $0.70
+Yogurt - 1 container - $1.20
+Cheese - 200 g - $800.00
+Coffee - 250 g - $1250.00
+Tea - 1 box - $3.00
+Pasta - 500 g - $650.00
+Rice - 1 kg - $2.00 
+--------------------
+Total: $3,658.60
